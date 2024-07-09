@@ -9,9 +9,9 @@
 ## **II. Hệ quản trị CSDL là gì ?**
 - là phần mềm cung cấp cho ta chức năng để tạo mới, lưu trữ CSDL và nó có thể chỉnh sửa CSDL cũ cho hợp lý nếu không cần thì nó delete tất cả CSDL luôn. Ngoài ra nó còn bảo mật và kiêm luôn “bảo kê” CSDL bời người quản trị.
 > [!NOTE]
-> **bảo mật** nghĩa là nó mã hóa dữ liệu sang dạng mà người ta xem không hiểu, nếu muốn hiểu thì phải giải mã.
-> **bảo kê** nghĩa là khi tạo xong CSDL dù bạn đã biết CSDL nằm ở đâu thì bạn cũng không có quyền xóa hay copy được, chỉ khi sử dụng hệ quản trị CSDL bạn mới có thể copy hay backup dữ liệu.
-> VD: Access, SQL Server, MySQL, Oracle,….
+> **Bảo mật** nghĩa là nó mã hóa dữ liệu sang dạng mà người ta xem không hiểu, nếu muốn hiểu thì phải giải mã.**Bảo kê** nghĩa là khi tạo xong CSDL dù bạn đã biết CSDL nằm ở đâu thì bạn cũng không có quyền xóa hay copy được, chỉ khi sử dụng hệ quản trị CSDL bạn mới có thể copy hay backup dữ liệu.
+
+- VD: Access, SQL Server, MySQL, Oracle,….
 
 - Mỗi Hệ quản trị CSDL khác nhau sẽ viết bằng ngôn ngữ quản trị CSDL khác nhau. Tuy nhiên có 1 số câu lệnh trong SQL Server vs MySQL vs Ocracle lại có cấu trúc lệnh và chức năng giống nhau!
 
@@ -23,11 +23,11 @@
 - Hệ quản trị CSDL đơn nhiệm dành cho cá nhân sử dụng để giải quyết các vấn đề nhỏ.+ Hệ quản trị CSDL đa nhiệm (Hệ quản trị CSDL  trung tâm )dành cho tổ chức nhỏ hoặc  trung bình sử dụng và người người sử dụng cuối truy nhập CSDL thông qua thiết bị đầu cuối.
 
 
-![Alt text](https://github.com/sybui2004/JAVA---PROPTIT/blob/main/BUOI%2012%20BAI%20TAP%20CUOI%20KHOA%201%20-%20THU%20VIEN%20DO%20HOA%20SWING/B1-1.png)
+![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-1.png)
 
 - Hệ quản trị CSDL Client / Server dành cho mọi tổ chức từ nhỏ – lớn. Những yêu cầu của người sử dụng cuối và trình ứng dụng sẽ được xử lý tại máy trạm(Client) sau đó những yêu cầu cần thiết sẽ được chuyển tới Hệ quản trị CSDL ở máy chủ (Server)
 
-![Alt text](https://github.com/sybui2004/JAVA---PROPTIT/blob/main/BUOI%2012%20BAI%20TAP%20CUOI%20KHOA%201%20-%20THU%20VIEN%20DO%20HOA%20SWING/B1-2.png)
+![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-2.png)
 
 => Tất cả các loại trên đều có Hệ quản trị CSDL đặt ở 1 nơi nên gọi là  mô hình Hệ quản trị CSDL tập trung vì thế nếu có vần đề xảy ra tại tại nơi đặt CSDL thì sẽ ảnh hướng đến toàn bộ hoạt động của hệ thống doanh nghiệp!
 
@@ -44,7 +44,7 @@ CREATE DATABASE <tên database>
     <Tên Database> <DB> <Phương thức tạo Database>
 - Bôi đen dòng lệnh > Excute (Phím tắt F5)
 
-![Alt text](https://github.com/sybui2004/JAVA---PROPTIT/blob/main/BUOI%2012%20BAI%20TAP%20CUOI%20KHOA%201%20-%20THU%20VIEN%20DO%20HOA%20SWING/B1-3.png)
+![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-3.png)
 
 Tương tự câu lệnh xóa:
 ```sql
