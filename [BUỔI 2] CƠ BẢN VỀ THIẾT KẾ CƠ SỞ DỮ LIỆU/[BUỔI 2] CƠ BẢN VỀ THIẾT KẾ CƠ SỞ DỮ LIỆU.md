@@ -4,7 +4,7 @@
 1. ***Thiết kế cơ sở dữ liệu là gì?***
 - là quá trình mô hình hóa nhằm chuyển đổi các đối tượng từ thế giới thực (Real-world system) sang các bảng trong hệ thống cơ sở dữ liệu (Database system) đáp ứng các yêu cầu lưu trữ và khai thác dữ liệu.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-1.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/1.png)
 
 Trong đó,
 
@@ -23,7 +23,7 @@ Trong đó,
 >- Kiểm tra cấu trúc cơ sở dữ liệu được thiết kế với qui định chuẩn hóa
 
 Ví dụ để thiết kế cơ sở dữ liệu cho hệ thống có mẫu hóa đơn sau:
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-2.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/2.png)
 
 **Bước 1: Xác định các thành phần dữ liệu**
 - Dựa trên việc:
@@ -93,11 +93,11 @@ ByText: Ghi bằng chữ(NVARCHAR)
 
 Trong hệ thống này do hay sắp xếp theo tên khách hàng nên chúng ta tách nó ra thành 02 phần là CustomerLastName và CustomerFirstName.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-3.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/3.png)
 
 Tương tự trường CustomerAddress cung vậy, để quản lý theo tỉnh/thành phố và quận/huyện chúng ta chia nó ra thành 03 trường như sau: CustomerAddress, CustomerDistrict và CustomerCity.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-4.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/4.png)
 
 - Sau khi tách các trường cần thiết và loại bỏ các trường không cần thiết ta có các thành phần dữ liệu như sau:
 ```sql
@@ -148,7 +148,7 @@ Amount: Thành tiền(INT)
 
 - Nhóm dữ liệu vào các thực thể:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-5.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/5.png)
 
 Kiểm tra lại các trường thừa/thiếu: Nếu thấy thiếu thì thêm vào còn nếu thừa thì có thể xem xét đến việc loại bỏ hoặc bổ sung vào các thực thể.
 
@@ -163,36 +163,36 @@ Khóa chính xác định như sau:
 - Chọn từ một trường có sẵn đủ điều kiện làm khóa chính như InvoiceNo chẳng hạn.
 - Nếu chưa có bạn có thể bổ sung một trường tự tăng để làm khóa chính như CustomerNo, ProductNo.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-6.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/6.png)
 
 Xem xét các thực thể bạn có để xác định các định mối quan hệ của chúng, chúng ta có các thực thể Customer, Product và Invoice thì mối quan hệ của chúng chỉ có thể là Customer mua Product và sinh ra Invoice để ghi nhận thông tin.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-7.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/7.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-8.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/8.png)
 
 - Quan hệ giữa Customer và Invoice, chúng ta thấy mỗi khách hàng có thể mua nhiều đơn hàng, nhưng mỗi đơn hàng chỉ bán cho 1 khách hàng. Do vậy quan hệ này là 1-n.
 - Tương tự quan hệ giữa Invoice và Product, mỗi hóa đơn có thể mua nhiều sản phẩm, mỗi sản phẩm có thể bán cho nhiều hóa đơn nên quan hệ này là quan hệ n-n.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-9.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/9.png)
 
 - Theo mô hình cơ sở dữ liệu quan hệ nếu để tồn tại mối quan hệ n-n nó sẽ gây ra dư thừa dữ liệu. Do vậy, bạn cần tách quan hệ ra thành các quan hệ 1-n bằng cách thêm vào bảng dữ liệu mới. Trong ví dụ trên chúng ta thêm vào bảng InvoiceDetails để tách nó ra thành 02 quan hệ 1-n như sau:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-10.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/10.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-11.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/11.png)
 
 - Các giá trị ở vùng bôi đen có giá trị lặp đi lặp lại và dẫn đến sai sót nên bạn cần phải tách phần này ra thành bảng riêng để thành hai bảng Invoice và InvoiceDetails.
 
 - Quan hệ n-n chứa dư thừa dữ liệu và có khả năng gây sai sót nên bạn cần thêm bảng và tách chúng ta thành các quan hệ 1-n để giảm dư thừa dữ liệu.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-12.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/12.png)
 
 
 - Bổ sung khóa ngoại cho các mối quan hệ:
 Khi đã xác định xong các mối quan hệ, cần đặt các khóa ngoại vào các bảng bên n trong  quan hệ 1-n  để tạo liên kết giữa chúng. Lúc này chúng ta có cấu trúc cơ sở dữ liệu như sau:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-13.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/13.png)
 
 **Bước 5: Chuẩn hóa cơ sở dữ liệu**
 > [!NOTE]
@@ -252,11 +252,11 @@ Một thiết kế cơ sở dữ liệu tốt không chỉ đảm bảo hoạt �
 
 Ví dụ lược đồ E-R:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-14.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/14.png)
 
 ***Các kiểu liên kết trong lược đồ E-R***
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-15.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/15.png)
 
 ## **III. Mô hình dữ liệu quan hệ**
 - Mô hình dữ liệu quan hệ(RDM) là mô hình biểu diễn cơ sở dữ liệu dưới dạng một tập hợp các quan hệ (bảng giá trị). Mỗi bảng giá trị có các cột và hàng được gọi lần lượt là thuộc tính (attributes) và bộ giá trị (tuples). Mỗi bộ giá trị (tuple) kí hiệu một thực thể hoặc mối quan hệ trong thế giới thực. Tên của quan hệ và tên của các thuộc tính sẽ góp phần giải thích ý nghĩa của từng bộ.
@@ -295,7 +295,7 @@ Ví dụ lược đồ E-R:
 
 - Lấy mẫu bài đã làm ở trên:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-2.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/2.png)
 
 
 ```sql
@@ -439,7 +439,7 @@ Invoice
 
 Xác định mối quan hệ và đặt khóa ngoại cho trường CustomerNo và ProductNo chúng ta được sơ đồ thực thể cho mức 2 như sau:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-16.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/16.png)
 
 - Xem xét các trường từ các bảng không phụ thuộc hoàn toàn vào khóa chính ra bảng khác để về chuẩn 3.
 
@@ -447,5 +447,5 @@ Xác định mối quan hệ và đặt khóa ngoại cho trường CustomerNo v
 - Các trường **`SequenceNo, Quantity, UnitPrice`** của bảng Invoice bên cạnh việc phụ thuộc vào hóa đơn nó còn phải phụ thuộc vào ProductNo (mặt hàng nào) nữa mới biết được giá trị của nó. Nên các trường này không phụ thuộc hoàn toàn vào khóa chính. Tách các trường này ra bảng mới và đặt tên thành InvoiceDetails và phát sinh khóa chính cho nó.
 - Lúc này bảng Invoice được chia thành Invoice và InvoiceDetails như sau:
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/B1-13.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/13.png)
 
