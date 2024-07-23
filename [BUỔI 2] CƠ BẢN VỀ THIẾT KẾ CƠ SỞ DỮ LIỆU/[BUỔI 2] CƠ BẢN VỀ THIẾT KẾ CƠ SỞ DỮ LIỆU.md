@@ -1,4 +1,4 @@
-# **BUỔI 1 - NHẬP MÔN CSDL**
+# **BUỔI 2 - CƠ BẢN VỀ THIẾT KẾ CƠ SỞ DỮ LIỆUL**
 
 ## **I. Lý thuyết về thiết kế cơ sở dữ liệu**
 1. ***Thiết kế cơ sở dữ liệu là gì?***
