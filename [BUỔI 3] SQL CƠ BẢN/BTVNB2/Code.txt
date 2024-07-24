@@ -1,0 +1,87 @@
+Table Book {
+  id INT [PRIMARY KEY]
+  title NVARCHAR(200) [not null]
+  summary NVARCHAR(MAX)
+  public_date date
+  isbn NVARCHAR(20) UNIQUE
+  author_id INT 
+  category_id INT
+}
+
+TABLE Author{
+  id INT [PRIMARY KEY]
+  name NVARCHAR(100) [not null]
+	date_of_birth DATE
+  biography NVARCHAR(MAX)
+  nationality NVARCHAR(50)
+}
+
+TABLE User {
+	id INT [PRIMARY KEY]
+  name NVARCHAR(100) [not null]
+  password NVARCHAR(50) [not null]
+  email NVARCHAR(100) [not null, unique]
+  created_at DATETIME
+}
+
+TABLE Category {
+  id INT [primary key]
+  name NVARCHAR(50) [not null, unique]
+  description NVARCHAR(MAX)
+}
+
+TABLE WRITTEN_BY{
+  id_book int [not null]
+  id_author int [not null]
+}
+
+TABLE BORROW{
+  id_user int [not null]
+  id_book int [not null]
+  borrow_date datetime [not null]
+  expected_pay_date datetime [not null]
+  real_pay_date datetime 
+  price int
+}
+
+TABLE Favourite{
+  id_user int [not null]
+  id_author int [not null]
+  like_for_author int
+}
+
+TABLE BelongTo{
+  id_book int [not null]
+  id_category int [not null]
+}
+Ref{
+  Book.id < BORROW.id_book
+}
+
+Ref{
+  User.id < BORROW.id_user
+}
+
+Ref{
+  Author.id < WRITTEN_BY.id_author
+}
+
+Ref{
+  Book.id < WRITTEN_BY.id_book
+}
+
+Ref{
+  Author.id < Favourite.id_author
+}
+
+Ref{
+  User.id < Favourite.id_user
+}
+
+Ref {
+  Book.id < BelongTo.id_book
+}
+Ref{
+  Category.id < BelongTo.id_category
+}
+
