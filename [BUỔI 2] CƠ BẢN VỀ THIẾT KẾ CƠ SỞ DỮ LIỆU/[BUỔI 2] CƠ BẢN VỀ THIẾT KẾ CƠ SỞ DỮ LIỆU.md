@@ -447,4 +447,9 @@ Xác định mối quan hệ và đặt khóa ngoại cho trường CustomerNo v
 - Các trường **`SequenceNo, Quantity, UnitPrice`** của bảng Invoice bên cạnh việc phụ thuộc vào hóa đơn nó còn phải phụ thuộc vào ProductNo (mặt hàng nào) nữa mới biết được giá trị của nó. Nên các trường này không phụ thuộc hoàn toàn vào khóa chính. Tách các trường này ra bảng mới và đặt tên thành InvoiceDetails và phát sinh khóa chính cho nó.
 - Lúc này bảng Invoice được chia thành Invoice và InvoiceDetails như sau:
 
+<<<<<<< HEAD
 ![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/13.png)
+=======
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%202%5D%20C%C6%A0%20B%E1%BA%A2N%20V%E1%BB%80%20THI%E1%BA%BET%20K%E1%BA%BE%20C%C6%A0%20S%E1%BB%9E%20D%E1%BB%AE%20LI%E1%BB%86U/13.png)
+
+>>>>>>> 3ef21dc3e0694fcbd6a8037452f47b0d12687a1e
