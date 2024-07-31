@@ -14,7 +14,7 @@ Thao tác trên tất cả các cột trong bảng:
 SELECT * FROM ten_bang;
 ```
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-1.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/1.png)
 ### 2. ***JOIN***
 - là phép kết nối dữ liệu từ nhiều bảng lại với nhau, nối 2 bảng, 3 bảng.. với nhau. Khi bạn cần truy vấn các cột dữ liệu từ nhiều bảng khác nhau để trả về trong cùng một tập kết quả , bạn cần dùng JOIN. 2 bảng kết nối được với nhau khi có 1 trường chung giữa 2 bảng này.
 
@@ -22,30 +22,30 @@ SELECT * FROM ten_bang;
 
 - INNER JOIN (Hoặc JOIN): Trả về tất cả các hàng khi có ít nhất một giá trị ở cả hai bảng
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-2.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/2.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-3.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/3.png)
 
 #### 2.2. ***LEFT OUTER JOIN (Hoặc LEFT JOIN)***
 - LEFT OUTER JOIN (Hoặc LEFT JOIN): Trả lại tất cả các dòng từ bảng bên trái, và các dòng đúng với điều kiện từ bảng bên phải
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-4.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/4.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-5.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/5.png)
 
 #### 2.3. ***RIGHT OUTER JOIN (Hoặc RIGHT JOIN)***
 - RIGHT OUTER JOIN (Hoặc RIGHT JOIN): Trả lại tất cả các hàng từ bảng bên phải, và các dòng thỏa mãn điều kiện từ bảng bên trái
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-6.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/6.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-7.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/7.png)
 
 #### 2.3. ***FULL OUTER JOIN (Hoặc OUTER JOIN)***
 - FULL OUTER JOIN (Hoặc OUTER JOIN): Trả về tất cả các dòng đúng với 1 trong các bảng.
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-8.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/8.png)
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-9.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/9.png)
 
 3. ***ORDER BY***
 - Mệnh đề ORDER BY trong SQL được sử dụng để sắp xếp dữ liệu theo thứ tự tăng dần hoặc theo thứ tự giảm dần, trên một hoặc nhiều cột.
@@ -64,7 +64,7 @@ dieu_kien : là điều kiện để lọc dữ liệu
 ASC: tăng dần
 DESC: giảm dần
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-10.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/10.png)
 
 > [!NOTE]
 > Có thể ORDER BY user_name, password: nếu user_ name như nhau thì nó sẽ sắp xếp theo password
@@ -88,7 +88,7 @@ GROUP BY cot1, cot2
 ORDER BY cot1, cot2
 ```
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-11.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/11.png)
 
 5. ***INSERT***
 - Lệnh INSERT INTO trong SQL được sử dụng để thêm các hàng dữ liệu mới vào một bảng trong Database.
@@ -104,7 +104,7 @@ Thao tác trên tất cả các cột trong bảng
 ```sql
 INSERT INTO TABLE_TEN VALUES (giatri1,giatri2,giatri3,...giatriN);
 ```
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-12.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/12.png)
 
 6. ***UPDATE***
 - Truy vấn UPDATE trong SQL được sử dụng để sửa đổi các bản ghi đang tồn tại trong một bảng. Bạn có thể sử dụng mệnh đề WHERE với truy vấn UPDATE sửa đổi các hàng đã lựa chọn, nếu không, hệ thống sẽ mặc định là tất cả các hàng đều bị tác động.
@@ -116,7 +116,7 @@ UPDATE ten_bang
 SET cot1 = giatri1, cot2 = giatri2...., cotN = giatriN
 WHERE [dieu_kien];
 ```
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-13.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/13.png)
 
 7. ***Mệnh đề Where***
 - Mệnh đề WHERE trong SQL được sử dụng để xác định một điều kiện trong khi lấy dữ liệu từ bảng đơn hoặc nhiều bảng kết hợp. Bạn sẽ sử dụng mệnh đề WHERE để lọc các bản ghi và chỉ lấy lại các bản ghi cần thiết.
@@ -190,7 +190,7 @@ SELECT *
 FROM [dbo].[Author]
 WHERE author_id = (SELECT MAX(author_id) FROM [dbo].[Author]);
 ```
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-14.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/14.png)
 
 #### 4.2. Multiple-Row Subquery
 ```sql
@@ -204,7 +204,7 @@ WHERE [author_id] IN (
 );
 ```
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-15.png)
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/15.png)
 
 #### 4.3. Correlated Subquery
 
@@ -218,6 +218,5 @@ SELECT A.*,(
 FROM [dbo].[Author] AS A
 ```
 
-![Alt text](https://github.com/sybui2004/CSDL-C-B-N/blob/main/%5BBU%E1%BB%94I%201%5D%20NH%E1%BA%ACP%20M%C3%94N%20CSDL/-16.png)
-
+![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/16.png)
 
