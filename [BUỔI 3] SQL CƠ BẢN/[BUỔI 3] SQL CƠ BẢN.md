@@ -219,4 +219,8 @@ FROM [dbo].[Author] AS A
 ```
 
 ![Alt text](https://github.com/sybui2004/CSDL-BASIC/blob/main/%5BBU%E1%BB%94I%203%5D%20SQL%20C%C6%A0%20B%E1%BA%A2N/16.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> d97def00ef89711fe876a89f5632047e3ebf4f31
 

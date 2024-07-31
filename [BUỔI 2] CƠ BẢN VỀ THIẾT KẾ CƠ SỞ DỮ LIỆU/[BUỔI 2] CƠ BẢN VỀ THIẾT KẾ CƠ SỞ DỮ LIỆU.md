@@ -1,4 +1,4 @@
-# **BUỔI 2 - CƠ BẢN VỀ THIẾT KẾ CƠ SỞ DỮ LIỆUL**
+# **BUỔI 2 - CƠ BẢN VỀ THIẾT KẾ CƠ SỞ DỮ LIỆU**
 
 ## **I. Lý thuyết về thiết kế cơ sở dữ liệu**
 1. ***Thiết kế cơ sở dữ liệu là gì?***
