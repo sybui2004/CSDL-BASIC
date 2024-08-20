@@ -1,0 +1,501 @@
+ProductID,Name,Category,Price,SupplierID,StockQuantity
+1,Author,Home & Garden,999.99,82,743
+2,Finally,Home & Garden,331.85,70,403
+3,Consider,Electronics,638.36,56,695
+4,Fall,Books,589.26,30,290
+5,Difference,Electronics,973.85,41,30
+6,World,Electronics,786.19,28,431
+7,Reveal,Electronics,995.7,75,967
+8,Enter,Books,651.08,89,221
+9,International,Electronics,321.27,16,228
+10,Reveal,Toys & Games,311.28,23,249
+11,Without,Electronics,783.55,78,476
+12,Report,Home & Garden,443.82,79,796
+13,Paper,Books,532.53,22,512
+14,Side,Toys & Games,884.55,2,522
+15,Away,Books,814.21,46,166
+16,Be,Home & Garden,802.58,60,919
+17,Work,Clothing,527.99,35,114
+18,College,Home & Garden,607.38,84,574
+19,Prevent,Books,364.87,18,259
+20,Return,Electronics,910.32,66,534
+21,Soon,Toys & Games,539.33,60,480
+22,Base,Electronics,800.39,51,523
+23,Sport,Clothing,129.86,82,421
+24,Seek,Clothing,709.53,65,428
+25,Real,Clothing,390.82,73,442
+26,Phone,Books,426.76,54,894
+27,Artist,Toys & Games,524.33,74,696
+28,Series,Toys & Games,451.88,6,212
+29,Lot,Electronics,466.78,53,784
+30,Wonder,Toys & Games,359.54,5,935
+31,Visit,Books,650.05,59,74
+32,Themselves,Books,977.36,2,503
+33,Hit,Toys & Games,454.68,57,200
+34,Enough,Toys & Games,49.4,28,32
+35,Take,Books,614.23,54,801
+36,Pass,Home & Garden,496.97,30,263
+37,Recognize,Toys & Games,267.77,54,953
+38,Chair,Clothing,835.32,89,113
+39,Great,Electronics,131.68,89,496
+40,Another,Electronics,633.13,17,896
+41,Current,Home & Garden,632.22,91,590
+42,Over,Toys & Games,624.24,45,431
+43,Push,Toys & Games,966.73,28,561
+44,Attorney,Clothing,580.31,4,839
+45,Country,Home & Garden,323.96,85,324
+46,Person,Clothing,224.32,19,142
+47,Organization,Clothing,557.77,53,934
+48,Break,Clothing,210.14,52,52
+49,Agency,Clothing,435.1,85,237
+50,Sometimes,Toys & Games,67.38,73,809
+51,Reveal,Home & Garden,218.9,7,376
+52,Else,Electronics,129.26,67,384
+53,Republican,Electronics,875.76,90,307
+54,Allow,Home & Garden,87.41,78,717
+55,Suddenly,Electronics,338.58,42,934
+56,She,Toys & Games,922.15,91,921
+57,Series,Toys & Games,255.1,39,85
+58,Impact,Home & Garden,271.12,51,621
+59,Good,Toys & Games,948.33,72,820
+60,Notice,Home & Garden,504.97,46,187
+61,Study,Home & Garden,592.82,92,304
+62,Artist,Books,112.37,36,747
+63,Child,Home & Garden,260.6,10,794
+64,Him,Toys & Games,764.42,14,656
+65,Chair,Electronics,626.35,71,625
+66,Environment,Books,214.36,22,54
+67,Discover,Electronics,407.13,90,702
+68,Yourself,Clothing,909.25,86,406
+69,Receive,Home & Garden,85.99,67,412
+70,Beautiful,Clothing,240.45,96,851
+71,Write,Clothing,158.45,95,197
+72,Energy,Electronics,252.53,89,618
+73,Difference,Books,830.85,66,821
+74,Know,Clothing,413.45,83,938
+75,Garden,Clothing,708.1,29,247
+76,Green,Clothing,687.64,95,834
+77,Risk,Electronics,687.95,53,493
+78,Course,Electronics,418.45,21,496
+79,Rise,Clothing,376.87,12,256
+80,Deep,Books,274.94,48,842
+81,Success,Books,541.69,70,638
+82,Fund,Electronics,574.38,79,524
+83,Those,Electronics,887.22,41,531
+84,Since,Clothing,822.26,14,911
+85,Return,Electronics,881.8,52,910
+86,Use,Books,169.29,29,516
+87,By,Toys & Games,769.45,56,177
+88,Either,Books,744.4,74,441
+89,Avoid,Toys & Games,708.64,77,464
+90,First,Clothing,496.95,38,992
+91,Cold,Home & Garden,333.79,34,439
+92,Fear,Home & Garden,789.92,93,20
+93,Set,Clothing,216.03,53,892
+94,Building,Electronics,290.75,76,118
+95,Protect,Books,886.76,4,778
+96,Change,Home & Garden,49.01,83,542
+97,Year,Toys & Games,333.48,17,665
+98,Other,Electronics,233.79,43,885
+99,General,Toys & Games,399.04,49,917
+100,Business,Books,635.18,40,573
+101,Back,Toys & Games,256.37,85,441
+102,Camera,Toys & Games,601.61,83,806
+103,Such,Books,415.65,71,439
+104,While,Toys & Games,343.6,71,116
+105,Born,Toys & Games,81.09,99,839
+106,Lay,Electronics,535.81,51,270
+107,Light,Clothing,703.32,100,326
+108,Population,Electronics,484.45,52,423
+109,Yet,Toys & Games,404.94,37,191
+110,Case,Clothing,215.83,11,760
+111,Above,Books,606.88,13,867
+112,Guess,Toys & Games,688.23,9,510
+113,Property,Electronics,440.86,36,651
+114,Find,Books,603.72,47,276
+115,Produce,Clothing,933.79,95,533
+116,Civil,Toys & Games,21.98,9,223
+117,Last,Home & Garden,782.99,79,511
+118,Long,Home & Garden,476.02,74,74
+119,Practice,Home & Garden,51.46,97,879
+120,Benefit,Toys & Games,60.25,28,797
+121,Green,Home & Garden,187.07,51,121
+122,Television,Books,260.21,35,279
+123,Key,Clothing,172.19,2,208
+124,Owner,Books,151.28,57,960
+125,Hard,Clothing,481.65,56,273
+126,Across,Books,627.67,83,199
+127,Include,Clothing,161.81,31,273
+128,Unit,Electronics,691.84,54,20
+129,Upon,Books,861.48,22,214
+130,Organization,Home & Garden,54.66,71,259
+131,Feel,Clothing,926.22,81,591
+132,Of,Toys & Games,734.48,17,442
+133,Theory,Toys & Games,366.86,92,782
+134,End,Clothing,576.24,93,468
+135,House,Clothing,296.44,83,175
+136,Receive,Clothing,718.07,5,479
+137,Push,Electronics,213.26,92,811
+138,Each,Clothing,727.07,60,393
+139,Really,Books,399.2,27,138
+140,Two,Toys & Games,309.49,72,382
+141,Forget,Toys & Games,970.2,8,503
+142,Despite,Toys & Games,683.42,46,36
+143,Form,Books,261.29,34,228
+144,Dinner,Books,324.93,98,851
+145,Senior,Electronics,563.58,85,270
+146,Happen,Home & Garden,921.85,90,545
+147,Strategy,Books,817.13,99,270
+148,Fast,Home & Garden,73.32,51,198
+149,Determine,Home & Garden,56.09,92,586
+150,Enjoy,Clothing,442.43,19,882
+151,Look,Books,999.2,5,525
+152,These,Books,984.25,54,136
+153,Value,Toys & Games,419.87,40,718
+154,Summer,Home & Garden,355.11,3,95
+155,Single,Electronics,182.79,17,560
+156,Say,Toys & Games,592.18,22,835
+157,Born,Books,308.74,60,850
+158,Special,Books,244.27,44,147
+159,Let,Home & Garden,710.76,75,483
+160,Different,Electronics,411.83,100,761
+161,Military,Books,186.4,69,449
+162,Mrs,Books,312.57,32,201
+163,Section,Electronics,188.5,8,75
+164,Since,Home & Garden,906.88,26,853
+165,Fall,Books,782.41,47,697
+166,Camera,Electronics,391.92,75,899
+167,Speech,Home & Garden,111.24,38,687
+168,Involve,Home & Garden,387.63,21,31
+169,Scientist,Home & Garden,148.88,86,836
+170,Involve,Electronics,609.61,28,817
+171,Edge,Books,172.0,98,681
+172,Which,Electronics,785.17,96,913
+173,Set,Toys & Games,277.97,34,991
+174,Husband,Home & Garden,102.93,1,106
+175,Listen,Electronics,110.25,40,642
+176,Add,Electronics,454.55,16,298
+177,Have,Clothing,750.14,17,631
+178,Institution,Toys & Games,430.02,96,357
+179,Chance,Clothing,528.84,15,900
+180,Peace,Books,478.15,87,828
+181,Break,Books,519.87,35,626
+182,Value,Books,627.93,78,487
+183,Partner,Books,777.42,23,520
+184,Suddenly,Electronics,700.34,97,429
+185,Skin,Clothing,374.06,88,838
+186,Area,Toys & Games,921.47,48,269
+187,Hand,Toys & Games,974.06,61,461
+188,No,Electronics,358.16,68,47
+189,Minute,Electronics,600.69,32,174
+190,Effort,Toys & Games,73.14,93,575
+191,Tv,Toys & Games,282.58,55,619
+192,Member,Toys & Games,844.94,99,267
+193,Society,Clothing,775.73,98,29
+194,Born,Home & Garden,92.12,87,748
+195,Kitchen,Toys & Games,234.61,42,581
+196,Mr,Electronics,824.82,76,980
+197,Concern,Electronics,340.11,16,635
+198,Physical,Home & Garden,792.9,68,808
+199,Thousand,Electronics,774.51,36,483
+200,Walk,Books,154.7,95,524
+201,Sound,Books,946.02,12,740
+202,Our,Toys & Games,934.06,84,845
+203,Fill,Clothing,725.72,46,678
+204,Up,Books,730.63,62,923
+205,Take,Clothing,224.75,55,383
+206,Speak,Home & Garden,808.23,52,854
+207,News,Clothing,137.14,3,354
+208,Doctor,Toys & Games,656.24,59,402
+209,Pull,Clothing,55.22,68,123
+210,Actually,Toys & Games,11.67,75,906
+211,Camera,Clothing,929.48,3,924
+212,Old,Home & Garden,383.93,30,92
+213,Local,Home & Garden,466.19,20,968
+214,Per,Toys & Games,171.75,6,891
+215,Style,Electronics,341.19,100,572
+216,Camera,Clothing,664.74,86,365
+217,Minute,Home & Garden,268.44,32,638
+218,Feel,Books,321.49,29,878
+219,Agent,Clothing,971.18,70,115
+220,Economic,Clothing,632.06,65,61
+221,Indicate,Books,492.52,20,737
+222,Move,Books,506.75,97,204
+223,Involve,Clothing,905.19,21,572
+224,Stop,Books,706.38,17,562
+225,Debate,Toys & Games,283.01,75,638
+226,Again,Clothing,634.95,86,141
+227,Low,Home & Garden,841.99,73,210
+228,Myself,Home & Garden,510.54,84,148
+229,Include,Electronics,553.7,8,866
+230,Over,Clothing,291.39,56,134
+231,Smile,Clothing,49.14,1,620
+232,Fill,Electronics,469.29,62,388
+233,Add,Toys & Games,947.84,47,192
+234,Know,Clothing,940.87,42,478
+235,Own,Electronics,793.92,81,115
+236,Image,Books,235.08,22,184
+237,Color,Clothing,695.37,80,66
+238,Wish,Toys & Games,16.69,34,170
+239,Marriage,Toys & Games,991.71,8,708
+240,Court,Home & Garden,99.97,47,913
+241,Two,Home & Garden,774.37,38,501
+242,Identify,Toys & Games,205.17,22,694
+243,Sell,Books,513.13,81,370
+244,Policy,Home & Garden,853.14,39,120
+245,Finish,Electronics,187.15,82,742
+246,Between,Electronics,885.47,81,84
+247,Law,Books,905.24,65,565
+248,Around,Electronics,443.83,54,399
+249,Become,Books,717.61,72,430
+250,Building,Electronics,508.55,46,777
+251,Hold,Toys & Games,427.24,6,655
+252,Hospital,Books,931.66,29,365
+253,Arm,Books,734.23,36,757
+254,Suddenly,Clothing,505.73,64,484
+255,Authority,Electronics,427.18,83,661
+256,West,Toys & Games,955.57,33,529
+257,Appear,Books,974.06,5,836
+258,Not,Home & Garden,312.39,86,668
+259,Test,Home & Garden,849.28,72,69
+260,Improve,Electronics,652.49,19,958
+261,Together,Home & Garden,422.51,42,993
+262,Attorney,Books,642.89,91,421
+263,Sing,Electronics,364.65,59,617
+264,Report,Toys & Games,30.27,46,470
+265,Herself,Toys & Games,538.07,100,676
+266,Prevent,Books,34.52,10,220
+267,Help,Books,544.49,63,398
+268,Ready,Electronics,137.23,51,972
+269,Available,Electronics,663.78,86,586
+270,Arrive,Clothing,172.09,21,368
+271,Against,Home & Garden,850.08,78,249
+272,Big,Home & Garden,529.12,83,576
+273,Per,Electronics,699.49,45,823
+274,Else,Electronics,599.36,25,972
+275,Type,Toys & Games,186.73,23,342
+276,Thank,Electronics,813.37,5,307
+277,Enter,Books,195.68,99,13
+278,Choose,Toys & Games,161.31,21,930
+279,Program,Books,965.39,37,382
+280,Himself,Home & Garden,202.55,42,389
+281,Run,Home & Garden,550.13,19,893
+282,Seem,Electronics,423.86,85,840
+283,Leg,Clothing,614.71,63,133
+284,Position,Toys & Games,850.61,92,596
+285,Sell,Home & Garden,677.21,41,447
+286,Religious,Clothing,80.7,80,801
+287,Space,Toys & Games,745.32,89,619
+288,Source,Toys & Games,279.16,60,992
+289,His,Toys & Games,896.13,45,171
+290,Involve,Clothing,736.06,90,974
+291,Admit,Books,36.92,89,229
+292,Prove,Toys & Games,364.12,47,68
+293,List,Toys & Games,768.72,72,441
+294,Day,Toys & Games,647.82,56,995
+295,Term,Toys & Games,260.79,88,806
+296,All,Electronics,634.07,64,729
+297,Surface,Books,511.79,99,670
+298,Resource,Toys & Games,844.06,51,137
+299,Camera,Home & Garden,303.24,65,681
+300,Administration,Electronics,126.51,60,116
+301,Choose,Toys & Games,526.88,27,314
+302,Poor,Electronics,101.14,41,11
+303,Site,Books,653.3,70,441
+304,Old,Electronics,746.24,48,253
+305,Understand,Clothing,147.41,17,52
+306,Carry,Electronics,536.44,37,442
+307,Quite,Books,107.72,20,210
+308,Share,Toys & Games,65.25,36,86
+309,Budget,Clothing,314.95,95,414
+310,Memory,Clothing,74.85,6,161
+311,International,Toys & Games,89.0,53,697
+312,Build,Toys & Games,155.54,1,390
+313,Position,Electronics,459.11,75,381
+314,Pass,Clothing,119.72,77,592
+315,Light,Electronics,631.67,47,848
+316,Thus,Books,920.44,24,387
+317,Report,Clothing,903.82,43,142
+318,Large,Clothing,938.85,71,109
+319,Ever,Books,542.32,32,133
+320,Detail,Electronics,705.69,70,47
+321,Hard,Clothing,85.42,67,137
+322,Drop,Books,263.95,30,755
+323,Arrive,Toys & Games,198.38,14,877
+324,Oil,Electronics,218.42,14,777
+325,Above,Toys & Games,318.67,90,713
+326,Protect,Electronics,94.65,66,405
+327,New,Toys & Games,187.52,14,515
+328,Fund,Toys & Games,114.45,91,708
+329,Guess,Toys & Games,217.3,2,348
+330,Even,Home & Garden,171.53,83,350
+331,Style,Clothing,962.76,71,464
+332,Cost,Toys & Games,573.63,62,693
+333,Region,Electronics,728.67,41,328
+334,Everybody,Toys & Games,295.42,44,279
+335,Yeah,Clothing,699.86,3,719
+336,Enough,Toys & Games,777.6,10,971
+337,Management,Electronics,144.89,2,734
+338,Throw,Home & Garden,116.55,92,39
+339,Enough,Home & Garden,791.94,2,210
+340,Provide,Clothing,949.23,8,155
+341,System,Home & Garden,465.67,64,488
+342,Turn,Toys & Games,195.25,66,511
+343,Pick,Home & Garden,900.59,36,226
+344,Need,Books,700.73,35,718
+345,Strategy,Electronics,210.39,6,845
+346,Others,Home & Garden,559.67,42,465
+347,Story,Clothing,693.68,37,143
+348,Foot,Home & Garden,922.02,17,571
+349,Garden,Books,578.42,63,481
+350,Purpose,Toys & Games,445.58,64,324
+351,Cultural,Clothing,783.99,16,869
+352,Would,Home & Garden,26.48,68,480
+353,Individual,Books,196.5,99,615
+354,May,Clothing,60.76,82,908
+355,Support,Electronics,240.22,66,405
+356,Cold,Toys & Games,265.16,62,582
+357,Agree,Home & Garden,309.71,71,916
+358,Physical,Home & Garden,46.52,98,772
+359,Size,Toys & Games,198.39,34,142
+360,Some,Home & Garden,274.44,96,963
+361,Focus,Home & Garden,902.38,77,247
+362,Government,Toys & Games,247.76,10,982
+363,Bill,Toys & Games,347.67,61,921
+364,Food,Home & Garden,547.33,26,64
+365,Debate,Electronics,880.47,5,663
+366,People,Clothing,514.63,52,901
+367,Word,Toys & Games,522.99,97,790
+368,Upon,Electronics,115.68,59,275
+369,Article,Home & Garden,869.93,37,91
+370,Husband,Home & Garden,427.2,82,839
+371,Effort,Books,250.5,53,10
+372,Position,Electronics,698.65,42,961
+373,Cultural,Clothing,432.91,3,968
+374,Suggest,Toys & Games,146.55,26,952
+375,Common,Electronics,526.89,47,326
+376,South,Clothing,564.8,70,26
+377,Success,Clothing,853.61,94,824
+378,You,Home & Garden,824.6,82,361
+379,Enjoy,Home & Garden,761.09,66,778
+380,Site,Electronics,204.58,13,368
+381,Manage,Toys & Games,135.3,21,425
+382,Ask,Books,810.57,35,824
+383,Star,Clothing,890.52,74,658
+384,North,Home & Garden,317.52,28,403
+385,Its,Home & Garden,874.79,71,968
+386,Body,Books,34.59,87,279
+387,Could,Toys & Games,419.14,26,285
+388,Should,Electronics,563.91,25,940
+389,First,Home & Garden,575.49,56,801
+390,Safe,Toys & Games,180.83,11,535
+391,Senior,Home & Garden,731.26,79,285
+392,Blood,Books,378.29,28,732
+393,Phone,Electronics,57.27,100,539
+394,Possible,Home & Garden,300.85,47,14
+395,East,Clothing,587.17,88,816
+396,Mind,Clothing,660.81,13,354
+397,Serious,Clothing,228.58,41,554
+398,Common,Toys & Games,210.74,92,951
+399,History,Electronics,309.61,93,737
+400,Old,Home & Garden,365.46,61,59
+401,Yeah,Clothing,572.3,61,919
+402,Wind,Electronics,400.07,50,636
+403,Their,Home & Garden,582.95,46,559
+404,Minute,Books,669.36,36,415
+405,Glass,Home & Garden,971.11,62,396
+406,Understand,Toys & Games,117.11,41,399
+407,Art,Clothing,645.78,23,279
+408,Per,Home & Garden,416.01,62,731
+409,Down,Home & Garden,46.98,61,830
+410,Work,Electronics,82.93,80,79
+411,Grow,Toys & Games,682.08,31,812
+412,Concern,Toys & Games,278.35,34,509
+413,Difficult,Toys & Games,796.76,91,775
+414,Including,Toys & Games,189.37,44,737
+415,Office,Home & Garden,466.06,64,919
+416,Both,Clothing,12.1,27,923
+417,Election,Clothing,437.14,73,337
+418,Put,Clothing,707.14,90,91
+419,Face,Clothing,254.88,94,750
+420,Man,Books,629.49,98,796
+421,Fly,Home & Garden,681.97,93,683
+422,Challenge,Electronics,692.88,65,764
+423,Might,Home & Garden,533.19,74,361
+424,Worker,Electronics,416.48,18,176
+425,Size,Electronics,792.17,73,83
+426,Dinner,Toys & Games,690.15,64,988
+427,Song,Clothing,834.31,91,78
+428,Since,Home & Garden,962.68,28,794
+429,Everybody,Toys & Games,741.9,79,853
+430,Score,Electronics,277.0,35,198
+431,As,Clothing,911.36,99,269
+432,Red,Home & Garden,117.5,46,218
+433,Eat,Clothing,985.11,46,39
+434,Themselves,Books,403.35,87,49
+435,Bar,Clothing,910.29,81,569
+436,Pressure,Books,197.17,13,670
+437,Tend,Home & Garden,591.53,27,863
+438,Score,Home & Garden,882.52,14,236
+439,Follow,Clothing,601.97,7,207
+440,Seven,Electronics,745.47,9,713
+441,Ago,Home & Garden,247.8,45,766
+442,Great,Home & Garden,615.59,25,879
+443,Hospital,Toys & Games,890.85,32,825
+444,Price,Books,499.19,99,325
+445,Professional,Clothing,382.91,89,671
+446,Interview,Electronics,394.25,20,202
+447,Claim,Books,128.42,53,691
+448,Throughout,Toys & Games,378.47,99,539
+449,Accept,Home & Garden,180.18,62,702
+450,Surface,Clothing,114.21,89,542
+451,Think,Clothing,330.72,84,457
+452,Usually,Clothing,789.69,36,342
+453,City,Electronics,535.76,52,701
+454,Watch,Toys & Games,200.19,52,169
+455,Sell,Toys & Games,961.48,75,632
+456,Turn,Books,29.11,53,407
+457,Stop,Clothing,58.72,81,849
+458,Table,Clothing,763.93,11,604
+459,Drive,Clothing,793.32,24,448
+460,Prepare,Clothing,796.02,31,676
+461,Actually,Home & Garden,328.7,78,460
+462,Fire,Clothing,626.57,78,467
+463,Cell,Toys & Games,493.62,2,314
+464,Process,Electronics,968.91,34,979
+465,World,Home & Garden,610.98,77,473
+466,Town,Electronics,931.54,74,216
+467,City,Electronics,935.24,27,19
+468,Official,Clothing,957.23,52,141
+469,Pull,Home & Garden,560.72,55,785
+470,Middle,Electronics,218.15,7,268
+471,Large,Home & Garden,301.55,75,929
+472,Hour,Books,438.4,2,791
+473,Community,Electronics,630.15,72,56
+474,Across,Electronics,449.09,98,161
+475,Like,Books,259.76,92,624
+476,Baby,Electronics,523.99,70,506
+477,Material,Home & Garden,328.39,80,862
+478,Entire,Clothing,494.34,46,794
+479,Study,Clothing,440.53,61,877
+480,Win,Home & Garden,122.38,52,930
+481,War,Toys & Games,827.8,95,919
+482,Hear,Books,568.42,21,533
+483,Get,Clothing,480.14,1,112
+484,Card,Electronics,938.15,4,702
+485,Enjoy,Home & Garden,141.47,30,665
+486,Its,Books,677.46,39,27
+487,Decision,Clothing,362.29,11,714
+488,Anyone,Home & Garden,179.92,28,614
+489,What,Toys & Games,20.47,18,302
+490,Seem,Electronics,195.27,70,783
+491,Visit,Books,185.75,22,276
+492,Down,Books,770.06,74,306
+493,Garden,Books,753.69,73,685
+494,Especially,Clothing,265.59,96,289
+495,Woman,Electronics,573.17,75,273
+496,Talk,Electronics,178.18,81,679
+497,Maintain,Books,68.74,58,838
+498,Soldier,Books,94.68,76,460
+499,Beat,Toys & Games,916.12,45,566
+500,Economic,Clothing,610.81,37,534

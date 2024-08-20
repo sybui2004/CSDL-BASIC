@@ -1,0 +1,101 @@
+SupplierID,Name,ContactInfo,ProductType
+1,"Brown, Martin and Johnson",+1-227-188-2186x98561,Electronics
+2,"Johnston, Frank and Harris",001-247-529-7644x25421,Electronics
+3,Fox-Oliver,+1-591-199-1936x51992,Electronics
+4,Carr-Jones,7846810377,Electronics
+5,Miller-Soto,(062)252-0205x2832,Clothing
+6,Flores PLC,301-550-5726,Electronics
+7,"Warner, Parker and Knapp",001-297-994-9217x10762,Books
+8,"Sheppard, Sims and Dixon",349.053.4568x538,Electronics
+9,Hurley Ltd,(620)354-9348x93908,Home Goods
+10,Moore-Brown,875.039.6513x515,Clothing
+11,Garcia-Gray,+1-355-151-2903x043,Electronics
+12,"Gutierrez, Wilson and Patrick",+1-023-217-0648x49820,Electronics
+13,Ward-Johnson,001-207-604-1658x7052,Toys
+14,"Warren, Cox and Diaz",024.319.5415,Home Goods
+15,"Wilson, Hansen and Aguilar",(048)222-8523,Electronics
+16,Mitchell-Smith,(355)863-8093,Toys
+17,Hopkins-Smith,(776)946-4624,Toys
+18,Romero Ltd,723.290.3960x0963,Clothing
+19,Garner-Thomas,173.542.4343x86570,Books
+20,"Morris, Foley and Swanson",+1-407-992-7126x6248,Toys
+21,Crawford-Patrick,570.052.5193,Electronics
+22,Simpson Ltd,001-689-698-2574x341,Electronics
+23,Wolfe Group,033.524.0718,Home Goods
+24,"Obrien, Sanchez and Burns",0201110038,Clothing
+25,Becker and Sons,+1-027-169-4947x0792,Toys
+26,Smith PLC,263.486.7541,Books
+27,Brown LLC,+1-338-218-6894,Home Goods
+28,Gomez LLC,653.677.0751x745,Books
+29,Pope-Gordon,+1-317-809-2879x869,Home Goods
+30,"Haney, Sanford and Hernandez",001-885-522-9711x998,Electronics
+31,"Taylor, Osborn and Velasquez",007-344-5081x384,Home Goods
+32,"Garcia, Johns and Dawson",(440)378-1059x386,Electronics
+33,"Hernandez, Aguilar and Burns",066-505-1394x65285,Home Goods
+34,Pollard-Massey,837-327-9813x16911,Clothing
+35,Strong Inc,230.961.0783x592,Electronics
+36,Williams-Gutierrez,665.137.1785x35939,Electronics
+37,Smith and Sons,778.729.4520x990,Books
+38,Odom Group,+1-960-329-4560,Toys
+39,Lowe LLC,783-286-9306,Electronics
+40,Thornton-Cook,849-626-2814,Books
+41,Lindsey and Sons,641-391-7338x23536,Books
+42,Colon-Simpson,718-982-5018,Books
+43,French-Ramirez,001-272-969-7013x900,Home Goods
+44,Weiss Inc,433.914.1374x6570,Home Goods
+45,Jenkins and Sons,(552)140-2271x74354,Home Goods
+46,"Hicks, Buck and Nguyen",001-279-088-1466x14116,Home Goods
+47,Collins Inc,+1-493-192-7076,Home Goods
+48,Crawford Ltd,+1-015-723-8763,Toys
+49,Price-Ferguson,001-826-980-8374x283,Clothing
+50,Brennan-Bright,(832)257-0440,Electronics
+51,Harrell-Johnson,+1-038-198-3368x4161,Toys
+52,"Nichols, Perez and Cain",001-858-919-8641,Clothing
+53,"Armstrong, Farrell and Carter",158-564-7006,Clothing
+54,Richards-Sullivan,+1-255-161-9486x437,Home Goods
+55,Brewer Group,001-874-913-5799,Toys
+56,Lewis Group,7986436738,Books
+57,Cooper PLC,572-203-4841x153,Books
+58,"Wilson, Thomas and Porter",8193652260,Books
+59,Riley-Wall,542.836.2943x3720,Toys
+60,Smith-Reynolds,254.958.2664x7925,Books
+61,"Gibson, Thompson and Pugh",+1-996-072-0061x7449,Books
+62,White-Gonzales,569.407.0861,Home Goods
+63,Smith-Powers,(799)302-7381x804,Books
+64,"Garza, Fields and Luna",(584)497-9882x87898,Electronics
+65,"Zimmerman, Silva and Rodriguez",707.898.3881,Books
+66,Dunn-Clark,756.651.6954,Electronics
+67,Hicks-Hayes,177-923-8552x02855,Electronics
+68,"Vazquez, Mendez and Hicks",(580)512-1248x623,Clothing
+69,David-Cook,591-910-1883x211,Electronics
+70,"Guerra, Lee and Rodriguez",(201)473-1699,Books
+71,Hall PLC,524-952-6280,Electronics
+72,"Owen, Cooper and Lam",+1-927-778-2891x6835,Clothing
+73,Jones PLC,378-381-9896,Books
+74,"Wall, Ray and Hopkins",001-311-493-4506x81962,Electronics
+75,Ramos and Sons,660.894.1526x9550,Clothing
+76,Farley-Bennett,4289148185,Home Goods
+77,"Mcgee, Lopez and Harris",5696455808,Books
+78,"Miller, Hampton and Brown",201-121-2926x8637,Electronics
+79,Carter Inc,(303)590-9989x62780,Toys
+80,Clark and Sons,+1-450-977-3552x08455,Electronics
+81,Schultz-Snyder,536.461.3718,Electronics
+82,"Valenzuela, Thomas and Sutton",001-403-859-7566x0142,Home Goods
+83,Nelson LLC,001-966-180-0863x71192,Home Goods
+84,"Rodriguez, Oneill and Howe",(991)236-7063x85321,Toys
+85,"Hansen, Bell and Zhang",103-419-8080x404,Books
+86,Whitehead-Mcdonald,+1-843-511-6311x405,Books
+87,King-Conway,(874)638-5886,Electronics
+88,Brooks Inc,(583)950-1719x616,Home Goods
+89,Jimenez-Price,+1-734-256-4328x628,Toys
+90,Prince-Larson,885-657-7289x39611,Home Goods
+91,"Hartman, Conner and Calhoun",835-604-5935x2595,Toys
+92,Miller-Tran,(112)271-2919,Home Goods
+93,"Smith, Greene and Rich",(673)767-3353,Home Goods
+94,Faulkner and Sons,319-689-2161,Toys
+95,Mccarthy PLC,001-887-588-1105x1350,Home Goods
+96,"Morgan, Vazquez and Miller",(625)146-6133,Electronics
+97,"Harris, Green and Williamson",237.282.9197x80664,Books
+98,Hughes-Tate,122-431-7874x2964,Home Goods
+99,Gutierrez PLC,(487)116-7146x68407,Books
+100,"Vasquez, Marquez and Williams",001-502-989-7180x23272,Books
